@@ -12,6 +12,10 @@ Our project is a marble track designed for kids. It is a closed-loop game where 
 
 The sorted balls are then collected and fed back into the elevator system, which lifts and guides them into the shooting mechanism again. The loop continues in this manner.
 
+If you are intersted in the project please check this drive link for more details:
+
+https://drive.google.com/drive/folders/1FEB35v0lif-gc465zCmdioxmccTQT4f7?usp=drive_link
+
 ![image](https://github.com/MostafaELFEEL/Amusement-Park-Themed-Marble-Track/assets/106331831/3bb1a78d-a1b0-4cb3-96f3-2bee5c178700)
 
 
@@ -21,6 +25,4 @@ Video link: https://drive.google.com/drive/folders/1bEXKJVpvYqGoTFXghtoVNARCpgTN
 
 ![image](https://github.com/MostafaELFEEL/Amusement-Park-Themed-Marble-Track/assets/106331831/c7a2d7c7-33b1-4c02-86b2-e916323b0b95)
 
-If you are intersted in the project please check this drive link for more details:
 
-https://drive.google.com/drive/folders/1FEB35v0lif-gc465zCmdioxmccTQT4f7?usp=drive_link
