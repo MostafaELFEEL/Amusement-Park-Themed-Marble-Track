@@ -1,30 +1,27 @@
-# Amusement-Park-Themed-Marble-Track
-## A marble track designed for kids
+# Amusement Park Themed Marble Track
+## Kid-Friendly Marble Track Design
 
-Our project is a marble track designed for kids. It is a closed-loop game where the ball starts at the reservoir or any other starting point and goes through several stages, including:
+Welcome to our exciting marble track, designed especially for kids. This closed-loop game takes the ball on a thrilling journey through various stages, ensuring hours of entertainment.
 
+## Features
+1. **Elevator:** The ball is lifted and guided by a fascinating elevator system.
+2. **Shooting:** Experience the excitement as the ball is launched from a shooting mechanism.
+3. **Sorting:** A sophisticated mechanism, complete with sensors and actuators, automatically categorizes balls into different tracks based on their colors.
+4. **Pathways:** The sorted balls travel through engaging pathways, adding an extra layer of fun.
 
-1. Elevator: The ball is lifted and guided by an elevator system.
-2. Shooting: The ball is launched from a shooting mechanism.
-3. Sorting: A ball sorting mechanism, equipped with sensors and actuators, automatically sorts the balls into three different tracks based on their colors.
-4. Pathways: The sorted balls travel through various pathways.
+After completing the pathways, the sorted balls are collected and fed back into the elevator system, ensuring continuous enjoyment for the little ones.
 
+## Project Details
+For a deeper dive into the project, check out the [Google Drive link](https://drive.google.com/drive/folders/1FEB35v0lif-gc465zCmdioxmccTQT4f7?usp=drive_link) for additional details.
 
-The sorted balls are then collected and fed back into the elevator system, which lifts and guides them into the shooting mechanism again. The loop continues in this manner.
+## Watch the Project in Action
+- [YouTube Video](https://www.youtube.com/watch?v=VSdp7pH9CCw)
+- [Additional Videos](https://drive.google.com/drive/folders/1bEXKJVpvYqGoTFXghtoVNARCpgTNY1nO?usp=drive_link)
 
-If you are intersted in the project please check this drive link for more details:
+![Project Image](https://github.com/MostafaELFEEL/Amusement-Park-Themed-Marble-Track/assets/106331831/3bb1a78d-a1b0-4cb3-96f3-2bee5c178700)
 
-https://drive.google.com/drive/folders/1FEB35v0lif-gc465zCmdioxmccTQT4f7?usp=drive_link
+# CAD Design
 
-Youtube video link: https://www.youtube.com/watch?v=VSdp7pH9CCw
+![CAD Design](https://github.com/MostafaELFEEL/Amusement-Park-Themed-Marble-Track/assets/106331831/c7a2d7c7-33b1-4c02-86b2-e916323b0b95)
 
-![image](https://github.com/MostafaELFEEL/Amusement-Park-Themed-Marble-Track/assets/106331831/3bb1a78d-a1b0-4cb3-96f3-2bee5c178700)
-
-
-Video link: https://drive.google.com/drive/folders/1bEXKJVpvYqGoTFXghtoVNARCpgTNY1nO?usp=drive_link
-
-# CAD
-
-![image](https://github.com/MostafaELFEEL/Amusement-Park-Themed-Marble-Track/assets/106331831/c7a2d7c7-33b1-4c02-86b2-e916323b0b95)
-
-
+Feel free to explore the project and witness the joy it brings to young minds!
